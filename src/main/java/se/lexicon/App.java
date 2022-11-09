@@ -1,7 +1,7 @@
 package se.lexicon;
 
 /**
- * Hello world!
+ * Vending machine
  *
  */
 public class App 
