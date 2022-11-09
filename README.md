@@ -1,5 +1,5 @@
-### Vending machine
+# Vending machine
 
 ## By Mattias Björk
 
-# With assistance from group 3
+### With assistance from group 3 (Emil & Tobias)
